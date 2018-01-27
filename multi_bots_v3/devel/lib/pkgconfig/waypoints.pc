@@ -1,0 +1,8 @@
+prefix=/home/serl/Documents/multi_bots_v3/devel
+
+Name: waypoints
+Description: Description of waypoints
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/serl/Documents/multi_bots_v3/devel/lib 
+Requires: 
